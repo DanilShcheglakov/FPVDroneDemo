@@ -362,6 +362,7 @@
 "Assets/Scripts/DroneInput.cs"
 "Assets/Scripts/DronePhysycs.cs"
 "Assets/Scripts/FPVCamera.cs"
+"Assets/Scripts/ThrottleStick.cs"
 "Assets/Settings/DroneInputActions.cs"
 -langversion:9.0
 /deterministic

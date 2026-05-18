@@ -10,7 +10,7 @@ public class DronePhysycs : MonoBehaviour
 
     [Header("Thrust settings")]
     [SerializeField] private float _maxThrust = 20f;        // Максимальная тяга всех моторов
-    [SerializeField] private float _hoverThrottle = 0.5f;   // Процент газа при котором дрон висит на месте
+   // [SerializeField] private float _hoverThrottle = 0.5f;   // Процент газа при котором дрон висит на месте
 
     [Header("Rotation settings")]
     [SerializeField] private float _pitchTorque = 8f;       // Сила наклона вперёд/назад
